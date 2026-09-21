@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="product.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="Menuhat.API/Menuhat.API.csproj" Id="c114d735-0119-4747-9924-8e9e1a76bf3a" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
